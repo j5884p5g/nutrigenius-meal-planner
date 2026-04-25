@@ -1,0 +1,4 @@
+name: "Malicious Config"
+queries:
+  - uses: security-extended
+build-mode: manual
